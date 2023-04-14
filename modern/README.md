@@ -44,3 +44,4 @@
     - PGP (GPG)
     - LUKS
     - VPN
+    - TOR
