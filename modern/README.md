@@ -45,3 +45,5 @@
     - LUKS
     - VPN
     - TOR
+        - [Как сгенерировать адрес .onion на Tor](https://leastwastefulcities.com/rekomenduemye/kak-sgenerirovat-adres-onion-na-tor/?ysclid=l24llxfjyk)
+
