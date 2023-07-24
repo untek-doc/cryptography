@@ -33,7 +33,7 @@
     - Центр штампов времени (TSA)
 - Криптографические протоколы
     - SSL
-        - https://habr.com/ru/company/1cloud/blog/326292/
+    - SSL pinning
     - TLS
     - SSH
     - HTTPS
